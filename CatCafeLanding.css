@@ -1,0 +1,29 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* navbar section styles */
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+}
+
+#happy-cat {
+    color: #F6BD60;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    width: 50%;
+}
+
+
+p {
+    color: #0A1045;
+}
